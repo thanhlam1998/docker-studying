@@ -1,1 +1,1 @@
-# Studying docker + k8s
+# This is a repository for studying docker and k8s
