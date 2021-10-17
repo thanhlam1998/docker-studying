@@ -1,3 +1,3 @@
-# Repository for studying docker and k8s
+# This is a repository for studying docker and k8s
 
-Made by: Lam
+By: Lam Nguyen
